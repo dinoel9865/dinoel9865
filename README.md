@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--Intro start-->
 
 <p align="left">
-Programador ABAP con sólida experiencia en desarrollo de sistemas empresariales SAP y automatización de procesos operativos en entornos mixtos (ABAP, ABAP 00,, CDS’S, BADIS, BAPIS,    BATCH IMPUT, PHP, Laravel). Formación integral en tecnología, con experiencia liderando áreas de TI, soporte técnico e infraestructura en empresas del rubro industrial y transporte. Especializado en la creación de soluciones a medida, integración de plataformas, optimización de procesos bajo estándares ISO 9001:2015 y mejora continua. Capacidad comprobada para liderar equipos, diseñar sistemas robustos y mejorar la eficiencia tecnológica a nivel organizacional.
+Programador ABAP con sólida experiencia en desarrollo de sistemas empresariales SAP y automatización de procesos operativos en entornos mixtos (ABAP, ABAP 00,CDS’S, BADIS, BAPIS,    BATCH IMPUT, PHP, Laravel). Formación integral en tecnología, con experiencia liderando áreas de TI, soporte técnico e infraestructura en empresas del rubro industrial y transporte. Especializado en la creación de soluciones a medida, integración de plataformas, optimización de procesos bajo estándares ISO 9001:2015 y mejora continua. Capacidad comprobada para liderar equipos, diseñar sistemas robustos y mejorar la eficiencia tecnológica a nivel organizacional.
 
 
 
